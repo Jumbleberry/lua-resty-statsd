@@ -1,13 +1,13 @@
-package = "lua-resty-statsd"
+package = "jumbleberry-statsd"
 version = "3.0.2-1"
 source = {
-  url = "git://github.com/mediba-system/lua-resty-statsd.git",
+  url = "git://github.com/jumbleberry/lua-resty-statsd.git",
   tag = "v3.0.2-resty"
 }
 description = {
   summary = "Statsd client for OpenResty/ngx_lua",
   detailed = "Statsd client for Lua 5.1+.",
-  homepage = "https://github.com/mediba-system/lua-resty-statsd",
+  homepage = "https://github.com/jumbleberry/lua-resty-statsd",
   license = "MIT/X11"
 }
 dependencies = {
